@@ -1,0 +1,26 @@
+:root {
+  background: hotpink;
+  background-image: conic-gradient(orchid, deeppink, gold, hotpink, orchid);
+  color: #050305;
+}
+
+:any-link {
+  color: inherit;
+}
+
+::selection {
+  background: indigo;
+  color: pink;
+}
+
+mark {
+  background: salmon;
+}
+
+.tea { background: mediumturquoise }
+.ink { background: hotpink }
+.aya { background: papayawhip }
+.koi { background: deepskyblue }
+.luv { background: plum }
+.aux { background: orchid }
+.hua { background: violet }
